@@ -1,0 +1,11 @@
+SOURCE:
+https://grokonez.com/aws/amazon-s3/node-js-restapis-download-file-from-amazon-s3-using-express-aws-sdk#SourceCode
+
+
+TO RUN:
+- open cmd window navigate to the project  C:\node\NodejsDownloadFileAmazonS3>npm start 
+- open postman and enter: localhost:8080/api/files/test.png
+
+
+This program will access your account on AWS S3 bucket and download specified file
+
